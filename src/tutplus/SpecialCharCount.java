@@ -11,6 +11,7 @@ public class SpecialCharCount {
         String s
             = "!#$GeeeksforGeeks.Computer.Science.Portal!!";
   
+        
         // Iterating through the string
         // using standard length() method
         for (int i = 0; i < s.length(); i++) {
